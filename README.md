@@ -18,9 +18,8 @@ I am [Saurabh Mathuria](www.linkedin.com/in/saurabh-mathuria-80553521b), passion
 - 🌱 I’m currently learning DevOps tools like Docker, Kubernetes, Ansible, Jenkins, etc..
 - <br>
 <hr>
-<b>Certifications </b>
+<b>Certifications </b><br>
 - Redhat Certified System Administrator
-- 
 
 <p float="left">
   <a href="https://python.org/" target="_blank" >
@@ -52,4 +51,4 @@ I am [Saurabh Mathuria](www.linkedin.com/in/saurabh-mathuria-80553521b), passion
 <br>
 <b>📫 How to reach me:</b>
 <br>
-<a href="www.linkedin.com/in/saurabh-mathuria-80553521b"> <b>Linkedin</b> </a>
+- Connect with me on [LinkedIn](www.linkedin.com/in/saurabh-mathuria-80553521b/) 👨🏻‍💻
