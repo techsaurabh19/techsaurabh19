@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I am [Saurabh Mathuria](https://www.linkedin.com/in/saurabh-mathuria-80553521b/), passionate about deploying  applications and manage infrastructure.  🎯
 - 🌱 I’m currently learning DevOps tools like Docker, Kubernetes, Ansible, Jenkins, etc..
 - <br>
-<hr>
+
 <b>Certifications </b><br>
 - Redhat Certified System Administrator
 
@@ -35,7 +35,7 @@ I am [Saurabh Mathuria](https://www.linkedin.com/in/saurabh-mathuria-80553521b/)
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a>
  </p>
-
+<!--
 <div id="badges">
   <a href="https://www.linkedin.com/in/saurabh-mathuria-80553521b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -44,14 +44,13 @@ I am [Saurabh Mathuria](https://www.linkedin.com/in/saurabh-mathuria-80553521b/)
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
+-->
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <br>
 <br>
-<b>📫 How to reach me:</b>
-<br>
-- Connect with me on [LinkedIn]() 👨🏻‍💻
 
 ### 📫 How to reach me?
 
