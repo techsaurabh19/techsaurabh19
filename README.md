@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 I am [Saurabh Mathuria](www.linkedin.com/in/saurabh-mathuria-80553521b), passionate about deploying  applications and manage infrastructure.  🎯
-
-I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
+- 🌱 I’m currently learning DevOps tools like Docker, Kubernetes, Ansible, Jenkins, etc..
+<b>Certifications </b>
+- Redhat Certified System Administrator
+- 
 
 <p float="left">
   <a href="https://python.org/" target="_blank" >
@@ -46,3 +46,6 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+<b>📫 How to reach me:</b>
+Linkedin: www.linkedin.com/in/saurabh-mathuria-80553521b
