@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am [Saurabh Mathuria](www.linkedin.com/in/saurabh-mathuria-80553521b), passionate about deploying  applications and manage infrastructure.  🎯
+I am [Saurabh Mathuria](https://www.linkedin.com/in/saurabh-mathuria-80553521b/), passionate about deploying  applications and manage infrastructure.  🎯
 - 🌱 I’m currently learning DevOps tools like Docker, Kubernetes, Ansible, Jenkins, etc..
 - <br>
 <hr>
@@ -37,7 +37,7 @@ I am [Saurabh Mathuria](www.linkedin.com/in/saurabh-mathuria-80553521b), passion
  </p>
 
 <div id="badges">
-  <a href="www.linkedin.com/in/saurabh-mathuria-80553521b">
+  <a href="https://www.linkedin.com/in/saurabh-mathuria-80553521b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
@@ -51,11 +51,9 @@ I am [Saurabh Mathuria](www.linkedin.com/in/saurabh-mathuria-80553521b), passion
 <br>
 <b>📫 How to reach me:</b>
 <br>
-- Connect with me on [LinkedIn](www.linkedin.com/in/saurabh-mathuria-80553521b/) 👨🏻‍💻
+- Connect with me on [LinkedIn]() 👨🏻‍💻
 
 ### 📫 How to reach me?
 
- - Visit my [Website](https://www.trainwithshubham.com) 🌐
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/shubhamlondhe1996/) 👨🏻‍💻
- - Follow me on [Instagram](https://www.instagram.com/shubhamlondhe96/) ✨
- - Shoot Me an [Email](mailto:trainwithshubham@gmail.com) 💌
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/saurabh-mathuria-80553521b/) 👨🏻‍💻
+
