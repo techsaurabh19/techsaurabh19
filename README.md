@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 I am [Saurabh Mathuria](https://www.linkedin.com/in/saurabh-mathuria-80553521b/), passionate about deploying  applications and manage infrastructure.  🎯
 - 🌱 I’m currently learning DevOps tools like Docker, Kubernetes, Ansible, Jenkins, etc..
 - <br>
-
 <b>Certifications </b><br>
 - Redhat Certified System Administrator
 
